@@ -21,13 +21,13 @@ Welcome to the **React Flashcards** website! This project is designed to help st
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SchoolOfCode/week-7-hackathon-bc18-room1
+   git clone https://github.com/AJHemmings/React-Flashcard-Web-App
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd week-7-hackathon-bc18-room1
+   cd React-Flashcard-Web-App
    ```
 
 3. Install dependencies:
